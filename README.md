@@ -1,2 +1,0 @@
-# GITECVN-DEMO-APP
-Mini App Dev
